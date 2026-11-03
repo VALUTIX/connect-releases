@@ -1,8 +1,8 @@
 {
-  "versionName": "1.0.2",
-  "versionCode": 3,
-  "apkUrl": "https://github.com/VALUTIX/connect-releases/releases/download/android-v1.0.2/ValutixConnect-1.0.2.apk",
-  "sha256": "66D97DB7BD439AB6D805A2A896A361405CF9788F024F133CD1691050D6C3A465",
+  "versionName": "1.0.3",
+  "versionCode": 4,
+  "apkUrl": "https://github.com/VALUTIX/connect-releases/releases/download/android-v1.0.3/ValutixConnect-1.0.3.apk",
+  "sha256": "aa308893aae64d89e06bac6b127ddb5a9946736635cb79148eca2fc50c157c25",
   "force": false,
-  "changelog": "Исправления стабильности VPN"
+  "changelog": "Истории с видео, улучшения интерфейса"
 }
