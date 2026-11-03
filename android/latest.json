@@ -1,8 +1,8 @@
 {
-  "versionName": "1.0.3",
-  "versionCode": 4,
-  "apkUrl": "https://github.com/VALUTIX/connect-releases/releases/download/android-v1.0.3/ValutixConnect-1.0.3.apk",
-  "sha256": "f6026097e2c6f1b4dbbe367c80c4957fc7dbd0c50ce5183a748efc860ef29fb3",
+  "versionName": "1.0.4",
+  "versionCode": 5,
+  "apkUrl": "https://github.com/VALUTIX/connect-releases/releases/download/android-v1.0.4/ValutixConnect-1.0.4.apk",
+  "sha256": "579432618bbc25e211efa16fa3b570330734996ce432314cb9bb341322de2823",
   "force": false,
-  "changelog": "Истории с видео, улучшения интерфейса"
+  "changelog": "Исправлено открытие установщика после выдачи разрешения"
 }
