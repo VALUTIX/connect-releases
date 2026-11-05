@@ -1,8 +1,8 @@
 {
-  "versionName": "1.0.4",
-  "versionCode": 5,
+  "versionName": "1.0.5",
+  "versionCode": 6,
   "apkUrl": "https://github.com/VALUTIX/connect-releases/releases/latest/download/ValutixConnect.apk",
-  "sha256": "579432618bbc25e211efa16fa3b570330734996ce432314cb9bb341322de2823",
+  "sha256": "1c160f646d8cdf9edaa84cdd30cf3609ad1fc6798a071448b9523669cfb47c12",
   "force": false,
-  "changelog": "Исправлено открытие установщика после выдачи разрешения"
+  "changelog": "Маршрутизация по профилю подписки: сайты напрямую, через VPN или блокировка"
 }
