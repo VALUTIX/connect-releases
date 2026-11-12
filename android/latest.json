@@ -1,8 +1,8 @@
 {
-  "versionName": "1.0.5",
-  "versionCode": 6,
+  "versionName": "1.0.6",
+  "versionCode": 7,
   "apkUrl": "https://github.com/VALUTIX/connect-releases/releases/latest/download/ValutixConnect.apk",
-  "sha256": "1c160f646d8cdf9edaa84cdd30cf3609ad1fc6798a071448b9523669cfb47c12",
+  "sha256": "69a45c12ecdaaf22e848f57541740b9e37c64683bdcef26a2ed5c0a5d64ee250",
   "force": false,
-  "changelog": "Маршрутизация по профилю подписки: сайты напрямую, через VPN или блокировка"
+  "changelog": "Исправлены уведомления. Улучшена стабильность"
 }
